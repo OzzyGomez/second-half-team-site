@@ -1,7 +1,7 @@
 {
   "name": "second-half-team",
   "version": "0.1.0",
-  "homepage": "http://ozzygomez.github.io/second-half-team",
+  "homepage": "https://www.osvaldovillagomez.com/second-half-team-site/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
