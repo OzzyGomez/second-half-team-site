@@ -1,0 +1,6 @@
+.section {
+  background: url('../../../Assets/scribles.png') no-repeat center center scroll, black;
+  background-size: cover;
+  padding-top: 64px;
+  padding-bottom: 64px;
+}

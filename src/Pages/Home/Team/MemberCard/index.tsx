@@ -1,20 +1,50 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import React from 'react';
+import React, { FC } from 'react';
 import classes from './MemberCard.module.css';
-import { faTwitch } from '@fortawesome/free-brands-svg-icons';
+import { faTwitch, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { Member, MemberLink } from '../Members';
 
-const MemberCard = () => {
+interface MemberCardProps {
+  member: Member;
+}
+
+interface IconLinkProps {
+  link: MemberLink;
+}
+
+const IconLink: FC<IconLinkProps> = ({ link }) => {
+    switch(link.type) {
+      case 'twitch': 
+        return (
+          <a href={link.url} target="_blank" rel="noreferrer" className={classes.link}>
+            <FontAwesomeIcon icon={faTwitch} size="2x" className={classes.icon} />
+          </a>
+        )
+      case 'youtube':
+        return (
+          <a href={link.url} target="_blank" rel="noreferrer" className={classes.link}>
+            <FontAwesomeIcon icon={faYoutube} size="2x" className={classes.icon} />
+          </a>
+        )
+      default:
+        return null;
+    }
+}
+
+const MemberCard: FC<MemberCardProps> = ({ member }) => {
   return (
     <div className={classes.card}>
       <div className={classes['image-container']}>
-        <img src="https://via.placeholder.com/300x300" alt="member" className={classes.image} />
+        <img src={member.image} alt="member" className={classes.image} />
       </div>
       <div className={classes.info}>
-        <div className={classes.name}>Name</div>
-        <div className={classes.title}>Stuff</div>
+        <div className={classes.name}>{member.name}</div>
+        <div className={classes.title}>{member.title}</div>
         <div style={{ flex: 1 }} />
         <div className={classes.icons}>
-          <FontAwesomeIcon icon={faTwitch} size="2x" />
+          {member.links && member.links.map(link => 
+            <IconLink key={link.type} link={link} />  
+          )}
         </div>
       </div>
     </div>
