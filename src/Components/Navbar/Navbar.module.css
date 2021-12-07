@@ -1,0 +1,22 @@
+.header {
+  background-color: rgba(0,0,0,0.12);
+  width: 100%;
+  padding: 8px;
+  height: 64px;
+  position: fixed;
+  color: white;
+  z-index: 1000000;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 64px;
+  height: 100%;
+}
+
+.image {
+  height: 100%;
+  object-fit: contain;
+}

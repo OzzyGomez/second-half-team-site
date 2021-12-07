@@ -1,0 +1,10 @@
+.footer {
+  background-color: black;
+  color: white;
+  padding: 64px;
+}
+
+.nav {
+  text-align: center;
+  font-size: 13px;
+}
