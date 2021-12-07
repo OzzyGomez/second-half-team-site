@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/second-half-team/static/css/main.daae05a6.chunk.css",
-    "main.js": "/second-half-team/static/js/main.cd7eb484.chunk.js",
-    "main.js.map": "/second-half-team/static/js/main.cd7eb484.chunk.js.map",
-    "runtime-main.js": "/second-half-team/static/js/runtime-main.b4c0e777.js",
-    "runtime-main.js.map": "/second-half-team/static/js/runtime-main.b4c0e777.js.map",
-    "static/js/2.04e5e4df.chunk.js": "/second-half-team/static/js/2.04e5e4df.chunk.js",
-    "static/js/2.04e5e4df.chunk.js.map": "/second-half-team/static/js/2.04e5e4df.chunk.js.map",
-    "static/js/3.b150cb82.chunk.js": "/second-half-team/static/js/3.b150cb82.chunk.js",
-    "static/js/3.b150cb82.chunk.js.map": "/second-half-team/static/js/3.b150cb82.chunk.js.map",
-    "index.html": "/second-half-team/index.html",
-    "static/css/main.daae05a6.chunk.css.map": "/second-half-team/static/css/main.daae05a6.chunk.css.map",
-    "static/js/2.04e5e4df.chunk.js.LICENSE.txt": "/second-half-team/static/js/2.04e5e4df.chunk.js.LICENSE.txt",
-    "static/media/Logo.c07c92ed.png": "/second-half-team/static/media/Logo.c07c92ed.png"
+    "main.css": "/second-half-team-site/static/css/main.daae05a6.chunk.css",
+    "main.js": "/second-half-team-site/static/js/main.cd7eb484.chunk.js",
+    "main.js.map": "/second-half-team-site/static/js/main.cd7eb484.chunk.js.map",
+    "runtime-main.js": "/second-half-team-site/static/js/runtime-main.ec85c07b.js",
+    "runtime-main.js.map": "/second-half-team-site/static/js/runtime-main.ec85c07b.js.map",
+    "static/js/2.04e5e4df.chunk.js": "/second-half-team-site/static/js/2.04e5e4df.chunk.js",
+    "static/js/2.04e5e4df.chunk.js.map": "/second-half-team-site/static/js/2.04e5e4df.chunk.js.map",
+    "static/js/3.b150cb82.chunk.js": "/second-half-team-site/static/js/3.b150cb82.chunk.js",
+    "static/js/3.b150cb82.chunk.js.map": "/second-half-team-site/static/js/3.b150cb82.chunk.js.map",
+    "index.html": "/second-half-team-site/index.html",
+    "static/css/main.daae05a6.chunk.css.map": "/second-half-team-site/static/css/main.daae05a6.chunk.css.map",
+    "static/js/2.04e5e4df.chunk.js.LICENSE.txt": "/second-half-team-site/static/js/2.04e5e4df.chunk.js.LICENSE.txt",
+    "static/media/Logo.c07c92ed.png": "/second-half-team-site/static/media/Logo.c07c92ed.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b4c0e777.js",
+    "static/js/runtime-main.ec85c07b.js",
     "static/js/2.04e5e4df.chunk.js",
     "static/css/main.daae05a6.chunk.css",
     "static/js/main.cd7eb484.chunk.js"
