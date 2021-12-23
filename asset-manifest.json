@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/second-half-team-site/static/css/main.9474a119.chunk.css",
-    "main.js": "/second-half-team-site/static/js/main.6be91992.chunk.js",
-    "main.js.map": "/second-half-team-site/static/js/main.6be91992.chunk.js.map",
-    "runtime-main.js": "/second-half-team-site/static/js/runtime-main.36241959.js",
-    "runtime-main.js.map": "/second-half-team-site/static/js/runtime-main.36241959.js.map",
-    "static/js/2.3a8ccc60.chunk.js": "/second-half-team-site/static/js/2.3a8ccc60.chunk.js",
-    "static/js/2.3a8ccc60.chunk.js.map": "/second-half-team-site/static/js/2.3a8ccc60.chunk.js.map",
-    "static/js/3.b59c7b0c.chunk.js": "/second-half-team-site/static/js/3.b59c7b0c.chunk.js",
-    "static/js/3.b59c7b0c.chunk.js.map": "/second-half-team-site/static/js/3.b59c7b0c.chunk.js.map",
+    "main.css": "/second-half-team-site/static/css/main.80bede61.chunk.css",
+    "main.js": "/second-half-team-site/static/js/main.1cdbfe27.chunk.js",
+    "main.js.map": "/second-half-team-site/static/js/main.1cdbfe27.chunk.js.map",
+    "runtime-main.js": "/second-half-team-site/static/js/runtime-main.aa1a181d.js",
+    "runtime-main.js.map": "/second-half-team-site/static/js/runtime-main.aa1a181d.js.map",
+    "static/js/2.4b8ae918.chunk.js": "/second-half-team-site/static/js/2.4b8ae918.chunk.js",
+    "static/js/2.4b8ae918.chunk.js.map": "/second-half-team-site/static/js/2.4b8ae918.chunk.js.map",
+    "static/js/3.e70e1b3d.chunk.js": "/second-half-team-site/static/js/3.e70e1b3d.chunk.js",
+    "static/js/3.e70e1b3d.chunk.js.map": "/second-half-team-site/static/js/3.e70e1b3d.chunk.js.map",
     "index.html": "/second-half-team-site/index.html",
-    "static/css/main.9474a119.chunk.css.map": "/second-half-team-site/static/css/main.9474a119.chunk.css.map",
-    "static/js/2.3a8ccc60.chunk.js.LICENSE.txt": "/second-half-team-site/static/js/2.3a8ccc60.chunk.js.LICENSE.txt",
+    "static/css/main.80bede61.chunk.css.map": "/second-half-team-site/static/css/main.80bede61.chunk.css.map",
+    "static/js/2.4b8ae918.chunk.js.LICENSE.txt": "/second-half-team-site/static/js/2.4b8ae918.chunk.js.LICENSE.txt",
     "static/media/Logo.c07c92ed.png": "/second-half-team-site/static/media/Logo.c07c92ed.png",
     "static/media/lol.04b3cefa.png": "/second-half-team-site/static/media/lol.04b3cefa.png",
-    "static/media/Highlights.module.css": "/second-half-team-site/static/media/scribles.8f32ed59.png",
     "static/media/tft.3ea9cebc.png": "/second-half-team-site/static/media/tft.3ea9cebc.png",
     "static/media/valorant.64f0064d.png": "/second-half-team-site/static/media/valorant.64f0064d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.36241959.js",
-    "static/js/2.3a8ccc60.chunk.js",
-    "static/css/main.9474a119.chunk.css",
-    "static/js/main.6be91992.chunk.js"
+    "static/js/runtime-main.aa1a181d.js",
+    "static/js/2.4b8ae918.chunk.js",
+    "static/css/main.80bede61.chunk.css",
+    "static/js/main.1cdbfe27.chunk.js"
   ]
 }
