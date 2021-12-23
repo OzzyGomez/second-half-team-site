@@ -24,6 +24,14 @@ h1 {
   background-color: var(--color-gray);
 }
 
+.bg-white {
+  background-color: white
+}
+
+.bg-black {
+  background-color: black
+}
+
 .text-white {
   color: white;
 }
@@ -32,6 +40,10 @@ h1 {
   width: 100%;
   max-width: 1200px;
   margin: auto;
+}
+
+.p-relative {
+  position: relative;
 }
 
 .h-100 {

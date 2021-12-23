@@ -56,6 +56,50 @@ const Members: Member[] = [
         url: 'https://www.twitch.tv/mrtrevinoo'
       }
     ]
+  },
+  {
+    name: 'AstralSGA',
+    image: 'https://via.placeholder.com/300x300',
+    title: 'Player',
+    links: [
+      {
+        type: 'twitch',
+        url: 'https://www.twitch.tv/astralsga'
+      }
+    ]
+  },
+  {
+    name: 'GhvstFreak',
+    image: 'https://via.placeholder.com/300x300',
+    title: 'Player',
+    links: [
+      {
+        type: 'twitch',
+        url: 'https://www.twitch.tv/ghvstfreak'
+      }
+    ]
+  },
+  {
+    name: 'Trou',
+    image: 'https://via.placeholder.com/300x300',
+    title: 'Player',
+    links: [
+      {
+        type: 'twitch',
+        url: 'https://www.twitch.tv/trou_trou_'
+      }
+    ]
+  },
+  {
+    name: 'GreatestDisciple',
+    image: 'https://via.placeholder.com/300x300',
+    title: 'Player',
+    links: [
+      {
+        type: 'twitch',
+        url: 'https://www.twitch.tv/greatestdisciple'
+      }
+    ]
   }
 ];
 
